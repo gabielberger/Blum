@@ -4,5 +4,5 @@ loguru==0.7.3
 aiohttp==3.9.6
 fake-useragent==1.6.1
 pandas==2.3.1
-phonenumbers==8.2.5
-langcodes==3.5.0
+phonenumbers==8.3.5
+langcodes==3.6.0
